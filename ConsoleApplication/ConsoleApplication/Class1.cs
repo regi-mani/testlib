@@ -9,5 +9,10 @@ namespace ConsoleApplication
 	class Class1
 	{
 		int xyz = 0;
+
+		public int getvar()
+		{
+			return xyz;
+		}
 	}
 }
