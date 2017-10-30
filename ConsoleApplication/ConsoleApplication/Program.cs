@@ -10,6 +10,8 @@ namespace ConsoleApplication
 	{
 		static void Main(string[] args)
 		{
+			//string hello = args[1];
+			string xyz = args[0];
 		}
 	}
 }
