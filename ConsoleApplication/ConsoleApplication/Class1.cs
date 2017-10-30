@@ -12,7 +12,7 @@ namespace ConsoleApplication
 
 		public int getvar()
 		{
-			return xyz;
+			return xyz+25;
 		}
 
 		public int getexcess()
