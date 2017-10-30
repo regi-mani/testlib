@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication
 {
-	class Program
+	class Class1
 	{
-		static void Main(string[] args)
-		{
-			//string hello = args[1];
-			string xyz = args[0];
-			// just testing the file
-		}
 	}
 }
