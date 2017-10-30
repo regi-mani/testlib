@@ -17,7 +17,7 @@ namespace ConsoleApplication
 
 		public int getexcess()
 		{
-			return xyz+10;
+			return xyz+100;
 		}
 }
 }
