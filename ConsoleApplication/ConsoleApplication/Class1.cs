@@ -8,5 +8,6 @@ namespace ConsoleApplication
 {
 	class Class1
 	{
+		int xyz = 0;
 	}
 }
